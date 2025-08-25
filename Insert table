@@ -1,0 +1,10 @@
+Insert table
+CREATE TABLE samra
+(
+id INT,
+Name Varchar(20),
+Age INT,
+Grade Var char(5)
+);
+INSERT INTO SAMRA (ID,NAME,AGE,GRADE)
+VALUES (04,'SAMRA',20,'A');
