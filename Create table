@@ -1,0 +1,8 @@
+Create table
+CREATE TABLE samra
+(
+id INT,
+Name Varchar(20),
+Age INT,
+Grade Var char(5)
+);
