@@ -1,0 +1,11 @@
+Salect table
+CREATE TABLE SAMRA 
+(
+  id INT,
+  Name Varchar (20),
+  Age INT,
+  Grade Varchar (5)
+);
+INSERT INTO SAMRA (ID,NAME,AGE,GRADE)
+VALUES (04,'SAMRA',20,'A');
+SELECT NAME, GRADE FROM SAMRA;
